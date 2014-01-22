@@ -1,0 +1,70 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black"
+    tools:context=".MainActivity" >
+
+    <ImageView
+        android:id="@+id/bsuLogo"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:contentDescription="@string/bsu_image_desc"
+        android:src="@drawable/bsubackground" />
+    
+    <TextView 
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/text_place_holder"
+        android:layout_below="@id/bsuLogo"
+        android:layout_marginTop = "25dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:padding="9dp"
+        android:textColor="@color/white"   
+        android:background="@drawable/back"
+        android:layout_marginBottom="5dp"
+        android:textSize="12sp"
+        
+        />
+    
+    <Button
+        style="@style/btnStyleBeige"
+        android:layout_width="180dp"
+        android:layout_height="36dp"
+        android:layout_alignTop="@id/bsuLogo"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="12dp"
+        android:layout_toRightOf="@id/bsuLogo"
+        android:text="@string/calendar_button"
+        android:textColor="@color/black"
+        android:id="@+id/calendar_button" />
+    
+	<Button
+        style="@style/btnStyleBeige"
+        android:layout_width="180dp"
+        android:layout_height="38dp"
+        android:layout_below="@id/calendar_button"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="12dp"
+        android:layout_toRightOf="@id/bsuLogo"
+        android:text="@string/eboard_directory_button"
+        android:textColor="@color/black"
+        android:id="@+id/eboard_directory_button" />
+	
+	<Button
+	    android:id="@+id/new_with_bsu_button"
+	    style="@style/btnStyleBeige"
+	    android:layout_width="wrap_content"
+	    android:layout_height="38dp"
+	    android:layout_alignRight="@+id/eboard_directory_button"
+	    android:layout_below="@id/eboard_directory_button"
+	    android:layout_marginBottom="15dp"
+	    android:layout_marginLeft="10dp"
+	    android:layout_toRightOf="@id/bsuLogo"
+	    android:text="@string/whats_new_with_bsu_button"
+	    android:textColor="@color/black" />
+
+</RelativeLayout>

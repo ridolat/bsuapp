@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Black Student Union</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="update_info">Update</string>
+    
+    
+    <string name="text_place_holder">The Black Student Union (founded in 1968) is an organization founded on the principles of education, empowerment, and support to students of color at Binghamton University. The Black Student Union prides itself on building an inclusive environment for ALL students to become active members and participants in BSU general body meeting and events. We are an organization that educates Binghamton University students about current issues, student activities, and campus politics.</string>
+	<string name="bsu_image_desc">Black Student Union Logo</string>
+	<string name="calendar_button">Calendar Of Events</string>
+	<string name="eboard_directory_button">Eboard Directory</string>
+	<string name="email_button">Email</string>
+	<string name="whats_new_with_bsu_button">What is new with BSU</string>
+	<string name="president_duties">The President coordinates and administers the organization.</string>
+	<string name="vp_duties">The Vice President maintains correspondence with other multicultural organizations and the local community and supporting campus community efforts on multiculturalism. Vice President is also the leader of Black History Month events.</string>
+	<string name="treasurer_duties">The Treasurer maintains a record of financial transactions and handles all financial concerns and duties of the Black Student Union.</string>
+	<string name="educo_duties">The Educational Coordinator coordinates and administers the BSU Youth Program.</string>
+	<string name="historian_duties">The Historian creates and publishes a scrapbook that is filled with pictures pertaining to activities involving the Black Student Union. The Historian also keeps alumni informed about issues pertaining to the Black Student Union.</string>
+	<string name="politco_duties">The Political Correspondent coordinates and administers the Black Student Union U.T.U.R.N. Program. The Political Correspondent also gives a brief report at the beginning of General Body meetings about current, campus, local, national, and/or global events.</string>
+	<string name="pubco_duties">The Publication Coordinator coordinates the production of the Black Student Union’s publications, ""The Vanguard". The Publications Coordinator is also responsible for the production of pamphlets for Black Student Union events when deemed necessary.</string>
+	<string name="pr_duties">The Public Relations Coordinator is responsible for the production of BSU advertisements/flyers. The Public Relations coordinator also advertises programs and events of the organization to the University, local, community, and other constituencies.</string>
+	<string name="sec_duties">The Secretary is responsible for maintaining minutes on file for Executive Board meeting, handling lounge/office requests, an GB meeting/event reminders via e-mail.</string>
+	<string name="socco_duties">The Social/Cultural Coordinator serves as recruiter and facilitator of student performers for social and cultural events of the Black Student Union. The Social/Cultural Coordinator is also responsible for the organization of the acts and performances within a show, the aspects of a social event that are visible to an audience.</string>
+	<string name="sarep_duties">The SA Representative serves as a representative for the Black Student Union during the Student Association meetings every Monday at 7pm and report information back to the Black Student Union during Executive Board Meetings. The SA Representative also adminsters and coordinates the S.E.T Program.</string>
+
+	<string name="social_media_text">Follow Us On Social Media!</string>
+
+</resources>
